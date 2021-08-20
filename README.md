@@ -12,8 +12,8 @@
 <p align="center">
 <a href="https://wa.me/628987942683"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/NurNurz"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-<a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" /><br>
-<a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+<a name=NurFy&label=VIEWS&style=flat-square&color=orange" /><br>
+<a href="https://github.com/NurFy"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 </p>
 
 ---
