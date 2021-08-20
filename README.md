@@ -9,3 +9,6 @@
 ###  _*- Github Stats -*_
 
 ![Akwowkwk](https://github-readme-stats.vercel.app/api?username=NurFy&theme=blue-green)
+
+### _*- Maintained Repo -*_
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=NurFy&repo=nonton-api&theme=nightowl)
