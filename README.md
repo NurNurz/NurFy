@@ -4,6 +4,8 @@
 ![Follower Badge](https://img.shields.io/github/followers/NurFy?color=green)
 ![Start Badge](https://img.shields.io/github/stars/NurFy?color=red)
 
-![Menggokil Badge](https://img.shields.io/badge/Menggokil-Akwowkw-Green?style=for-the-badge)
+---
+
+###  _*- Github Stats -*_
 
 ![Akwowkwk](https://github-readme-stats.vercel.app/api?username=NurFy&theme=blue-green)
