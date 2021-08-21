@@ -2,9 +2,11 @@
 
 <p align="center"><img src="https://img.shields.io/badge/I Am-NurFy-Green?style=for-the-badge" /></p>
 
-![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NurFy&style=flat-square)
-![Follower Badge](https://img.shields.io/github/followers/NurFy?color=green&style=flat-square)
-![Start Badge](https://img.shields.io/github/stars/NurFy?color=yellow&style=flat-square)
+<p align="center">
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NurFy&style=flat-square">
+<img src="https://img.shields.io/github/followers/NurFy?color=green&style=flat-square">
+<img src="https://img.shields.io/github/stars/NurFy?color=yellow&style=flat-square">
+</p>
 
 ---
 
