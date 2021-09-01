@@ -1,3 +1,7 @@
+<h1 align="center"> Annyeong </h1>
+
+---
+
 <p align="center"><img src="https://media4.giphy.com/media/yALcFbrKshfoY/giphy.webp" width="128" alt="gif"/></p>
 
 <p align="center"><img src="https://img.shields.io/badge/I Am-NurFy-Green?style=for-the-badge" /></p>
